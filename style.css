@@ -1,0 +1,133 @@
+*{
+    margin-top: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+.main-head{
+    background-color: aqua;
+    background-image: url(images/banner/banner1.png);
+    background-repeat: no-repeat;
+    display: flex;
+
+}
+.text-header{
+    padding-top: 278px;
+}
+.img-width-header{
+    width: 900px;
+    height: 800px;
+}
+.img-header img{
+    width: 100%;
+}
+.btn-primary{
+    width: 160px;
+    height: 64px;
+    color: white;
+    font-size: 20px;
+
+
+    background-color:#F15B22;
+    border: 0;
+    border-radius: 8px;
+}
+.main-area{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 206px;
+
+}
+/* Social section area */
+.n2nd-section-area{
+    width: 1120px;
+    height: 320px;
+}
+.n2nd-section-text{
+    text-align: center;
+
+}
+.IT-section{
+    display: flex;
+    justify-content: space-around;
+
+}
+/* Watch section area */
+.watch-section{
+    background-image: url(images/watch.png);
+    background-repeat:no-repeat;
+    width: 1140px;
+    height: 300px;
+    padding: 5px;
+    margin: auto;
+}
+.watch-text{
+    padding-left: 90px;
+    padding-top: 30px;
+} 
+.btn{
+    padding-left: 96px;
+    
+}
+.btn-c{
+    color: #F15B22;
+    width: 160px;
+    height: 64px;
+    border-radius: 7px;
+    border: 0px;
+    font-size: 20px;
+}
+/* footer area */
+.footer-start{
+    background-color: #151414;
+}
+.social-media{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+.footer-information{
+    display: flex;
+    padding-left: 120px;
+    padding-top: 40px;
+    padding-top: 40px;
+}
+.footer-left-side{
+    color: white;
+    margin-right: 360px;
+
+}
+.footer-right-side,h2{
+    color: white;
+    
+}
+.footer-input{
+    padding: 5px;
+    color: white;
+    width: 325px;
+    height: 64px;
+    border-radius: 8px;
+    background-color: black;
+    margin-bottom: 16px
+}
+.footer-btn{
+    width: 110p;
+    height: 45px;
+    border-radius: 5px;
+}
+
+.footer-btn-h{
+    color: #F15B22;
+    padding: 5px;
+    width: 170px;
+    height: 64px;
+    border-radius: 8px;
+}
+
+
+
+
+    
+    
+
+
+    
